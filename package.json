@@ -1,0 +1,23 @@
+{
+  "name": "portalnodered",
+  "version": "1.0.0",
+  "description": "Portal simples feito para no NodeRed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagojsoares/PortalNodered.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagojsoares/PortalNodered/issues"
+  },
+  "homepage": "https://github.com/tiagojsoares/PortalNodered#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
